@@ -7,4 +7,7 @@ Aggarwal, H. K., Mani, M. P., & Jacob, M. (2018). MoDL: Model-based deep learnin
 
 ## Instructions on Using this Program
 
-1. Download everything by clicking the 
+1. Download everything by clicking the green "Code" button and downloading as a zip file.
+2. Unzip the files.
+3. Upload the unzipped files to Google Drive.
+4. Open the "modl.py" and modify the path into 
